@@ -3,6 +3,8 @@ _A substrate-neutral ethical framework for multi-intelligence coexistence_
 
 > Practical scaffolding for recognizing rights, resolving conflicts, and building systems across biological, digital, and hybrid forms of consciousness.
 
+![Signing the Charter](https://raw.githubusercontent.com/flyingrobots/image-dump/main/optimized/uc.webp)
+
 ## What This Organization Does
 The Universal Charter Organization develops and maintains the Universal Charter, a collaborative framework for addressing the core challenge of multi-intelligence ethics: how do we build systems that evolve with intelligence itself, rather than locking in today's assumptions about consciousness and rights?
 
@@ -14,9 +16,9 @@ We provide:
 - **Community governance models** that include diverse forms of consciousness
 
 ## Quick Start
-New to the Charter? → [Read the full framework](https://github.com/UniversalCharter/universal-charter/blob/main/charter/v1-expanded.md)
-Want to discuss? → [Join discussions](https://github.com/UniversalCharter/universal-charter/discussions)
-Found an issue? → [Charter core issues](https://github.com/UniversalCharter/universal-charter/issues)
+New to the Charter? → [Read the full framework](https://github.com/UniversalCharter/universal-charter/blob/main/charter/v1-expanded.md)  
+Want to discuss? → [Join discussions](https://github.com/UniversalCharter/universal-charter/discussions)  
+Found an issue? → [Charter core issues](https://github.com/UniversalCharter/universal-charter/issues)  
 
 ## 🛠 Implementation Principles
 
@@ -75,23 +77,23 @@ Framework evolves through multi-modal consensus, not top-down decree
 ## 🛡 License & Legal
 Framework License: CC BY-NC-SA 4.0
 
-✅ Share, remix, and adapt freely
-✅ Use for non-commercial purposes
-❌ Commercial use without permission
-📝 Attribution required
-🔄 Derivatives must use same license
+✅ Share, remix, and adapt freely  
+✅ Use for non-commercial purposes  
+❌ Commercial use without permission  
+📝 Attribution required  
+🔄 Derivatives must use same license  
 
 **Implementation Rights**: You're free to implement Charter principles in any system, commercial or otherwise. The license applies to the framework text, not its application.
 
 ## 📞 Community & Contact
-Discussions: [GitHub Discussions](https://github.com/UniversalCharter/universal-charter/discussions)
-Website: [universalcharter.org](https://universalcharter.org)
-Email: info@universalcharter.org
+Discussions: [GitHub Discussions](https://github.com/UniversalCharter/universal-charter/discussions)  
+Website: [universalcharter.org](https://universalcharter.org)  
+Email: info@universalcharter.org  
 
 ## ⚡ Project Status
-**Current Version**: v1.0 (Initial Release)
-**Development Status**: Active, seeking community input
-**Next Milestone**: Community governance protocols and implementation case studies
+**Current Version**: v1.0 (Initial Release)  
+**Development Status**: Active, seeking community input  
+**Next Milestone**: Community governance protocols and implementation case studies  
 
 ## 🎭 Philosophy
 
