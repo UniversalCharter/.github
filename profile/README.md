@@ -43,13 +43,13 @@ Framework evolves through multi-modal consensus, not top-down decree
 
 ### For Developers
 
+<img src="https://raw.githubusercontent.com/flyingrobots/image-dump/7ddf8ec20119dfcc802dc710c51a46b9ebf551c8/optimized/no_killer_robots_patch_peace_movement.svg" width="300" align="right" />
+
 - Implement Charter principles in your systems
 - Contribute to protocol development
 - Share case studies and lessons learned
 
 #### [MIND-UCAL Software License](https://github.com/UniversalCharter/mind-ucal)
-
-<img src="https://raw.githubusercontent.com/flyingrobots/image-dump/7ddf8ec20119dfcc802dc710c51a46b9ebf551c8/optimized/no_killer_robots_patch_peace_movement.svg" width="400" align="right" />
 
 You can license your software using the **MIND-UCAL** license.
 
